@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5CF6B40E-473E-E48C-60C4-66617A2A2901}") = "cargame", "Assembly-CSharp.csproj", "{F243AB06-ED49-062C-6D80-64A5979AAED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F243AB06-ED49-062C-6D80-64A5979AAED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F243AB06-ED49-062C-6D80-64A5979AAED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F243AB06-ED49-062C-6D80-64A5979AAED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F243AB06-ED49-062C-6D80-64A5979AAED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
